@@ -1,16 +1,29 @@
 ### Hi there 👋
+I'm QuangLam, a junior majoring in embedded systems and IoT at [Your University]. I'm passionate about learning new skills and technologies to solve real-world problems.
 
-<!--
-**tranquanglam123/tranquanglam123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Projects
+EMSYS_COURSERA: Repository built while enrolling the embedded system course on Coursera
 
-Here are some ideas to get you started:
+Python-Sophomore-Project: PC system monitoring application using Python, QT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+VRChat-Pub-Project: Currently working on, building a VrChat Pub.
+
+- 🌱 Skills
+Programming languages: C, C++, Python
+
+Microcontroller platforms: Arduino, Raspberry Pi, STM32
+
+Protocols: MQTT, TCP/IP, I2C, SPI
+
+Tools: Git, Visual Studio Code, Keil uVision, Unity
+
+- :school: Education
+Bachelor of Science in Embedded Systems and IoT, Ho Chi Minh University of Education and Technology(HCMUTE), expected graduation 2024
+
+- 📫Contact Information
+Email: kwanglum815@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/tran-nguyen-quang-lam-183337236/
+
+- ⚡Conclusion
+Thanks for visiting my profile! Feel free to connect with me on LinkedIn or send me an email if you have any questions or want to collaborate on a project.
