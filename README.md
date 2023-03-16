@@ -11,9 +11,7 @@ VRChat-Pub-Project: Currently working on, building a VrChat Pub.
 - 🌱 Skills
 Programming languages: C, C++, Python
 
-Microcontroller platforms: Arduino, Raspberry Pi, STM32
-
-Protocols: MQTT, TCP/IP, I2C, SPI
+Microcontroller platforms: Arduino, ESP32, STM32
 
 Tools: Git, Visual Studio Code, Keil uVision, Unity
 
