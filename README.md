@@ -6,14 +6,14 @@ EMSYS_COURSERA: Repository built while enrolling the embedded system course on C
 
 Python-Sophomore-Project: PC system monitoring application using Python, QT
 
-VRChat-Pub-Project: Currently working on, building a VrChat Pub.
+VRChat-Pub-Project: Establishing a VrChat Pub, where people can gather, socialize, and enjoy a simulated pub environment from the comfort of their own homes..
 
 - 🌱 Skills
 Programming languages: C, C++, Python
 
 Microcontroller platforms: Arduino, ESP32, STM32
 
-Tools: Git, Visual Studio Code, Keil uVision, Unity
+Tools: Git, Visual Studio Code, Keil uVision, Unity, Blender
 
 - :school: Education
 Bachelor of Science in Embedded Systems and IoT, Ho Chi Minh University of Education and Technology(HCMUTE), expected graduation 2024
