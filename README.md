@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm QuangLam, a senior majoring in embedded systems and IoT at [Your University]. Currently I am an AR/VR/MR intern at BGSW, expertise in 3d modeling and scripting or "gamification" the application for the target devices.
+I'm QuangLam, a senior majoring in embedded systems and IoT at HCMUTE. Currently I am an AR/VR/MR intern at BGSW, expertise in 3d modeling and scripting or "gamification" the application for the target devices.
 - 🔭 Projects
 
 [VRChat-Pub-Project](https://www.youtube.com/watch?v=8skfdSrhRcc): Establishing a VrChat Pub, where people can gather, socialize, and enjoy a simulated pub environment from the comfort of their own homes
