@@ -1,25 +1,44 @@
-### Hi there 👋
-I'm QuangLam, a senior majoring in embedded systems and IoT at HCMUTE. Currently I am an AR/VR/MR intern at BGSW, expertise in 3d modeling and scripting or "gamification" the application for the target devices.
-- 🔭 Projects
+### Hi there 👋  
+I'm **Quang Lam**, an engineer passionate about **Digital Twins, Robotics Simulation, and XR (AR/VR/MR) development**.  
+I’m currently **leading Omniverse and simulation initiatives at Hitachi Digital Services**, where I focus on creating industrial **digital twins** and **AI-driven simulation environments** using the NVIDIA ecosystem.  
 
-[VRChat-Pub-Project](https://www.youtube.com/watch?v=8skfdSrhRcc): Establishing a VrChat Pub, where people can gather, socialize, and enjoy a simulated pub environment from the comfort of their own homes
+Previously, I interned at **Bosch Global Software Technologies (BGSW)**, where I built mixed reality applications and immersive tools for Hololens2 and Quest devices.  
 
-[Immersive Piano](https://github.com/tranquanglam123/ImmersivePiano): Mixed Reality application on Quest 3 for people to practice piano immersively
+---
 
-[Art Gallery](https://github.com/tranquanglam123/ArtGallery): Mixed Reality application to show sculptures, indoor usage for gallery.
+- 🔭 **Highlighted Projects**
+  - 🏭 **Industrial Digital Twin Platform** – Designed and deployed a **real-time digital twin** integrating **NVIDIA Isaac Sim**, **RAPIDS**, and **Triton Inference Server** for predictive maintenance and anomaly detection.  
+  - 🚧 **Construction Site Simulation** – Developed a **robotics simulation** in Isaac Sim to optimize task workflows and validate automation routines in virtual environments.  
+  - 🪩 **Hololens2 Worker Assistant** – Built a **Mixed Reality training assistant** that guides and evaluates workers’ assembly steps using spatial recognition and feedback.  
+  - 🎹 [**Immersive Piano**](https://github.com/tranquanglam123/ImmersivePiano) – Mixed Reality piano learning experience on Quest 3.  
+  - 🖼️ [**Art Gallery**](https://github.com/tranquanglam123/ArtGallery) – MR-based digital exhibition for indoor art display.  
 
-- 🌱 Skills
-Programming languages: C++, Python, C#
+---
 
-AR/VR/MR target devices: Oculus Quest 2/3, Android, Microsoft Hololens 2
+- 🧠 **Core Skills & Tools**
+  - **Simulation & AI:** NVIDIA Isaac Sim, Omniverse, RAPIDS (cuDF/cuML), Triton Inference Server, ROS2  
+  - **AR/VR/MR Development:** Unity, MRTK, Hololens2, Oculus Quest 2/3  
+  - **Programming:** Python, C#, C++  
+  - **Visualization & Data:** Grafana, MQTT, Power BI, REST APIs, Parquet  
+  - **3D & Design:** Blender, Substance Painter  
+  - **Workflow & Versioning:** Visual Studio, Git, Plastic SCM  
 
-Tools: Visual Studio, Plastic SCM, Blender, Substance Painter, Unity
+---
 
-- :school: Education
-Bachelor of Science in Embedded Systems and IoT, Ho Chi Minh University of Education and Technology(HCMUTE), expected graduation in July 2024
+- 🎓 **Education**
+  **Bachelor of Science in Embedded Systems and IoT**  
+  *Ho Chi Minh City University of Technology and Education (HCMUTE)*  
 
-- 📫Contact Information
-Email: kwanglum815@gmail.com
+---
 
-- ⚡Conclusion
-Thanks for visiting my profile! Feel free to connect with me on LinkedIn or send me an email if you have any questions or want to collaborate on a project.
+- 📫 **Contact**
+  - **Email:** kwanglum815@gmail.com  
+  - **LinkedIn:** [Tran Nguyen Quang Lam](https://www.linkedin.com/in/quang-l%C3%A2m-tr%E1%BA%A7n-nguy%E1%BB%85n-161310318/)
+  - **Upwork:** [Lam Tran (Dom XR Dev)](https://www.upwork.com/freelancers/~01fd823f817cda3581)
+
+---
+
+- ⚡ **Conclusion**
+  Thanks for visiting my profile!  
+  I’m passionate about combining **AI, simulation, and XR** to bring real-world industrial problems into **interactive digital environments**.  
+  Always open to collaborate on projects involving **Omniverse, robotics simulation, and immersive technology** 🚀  
